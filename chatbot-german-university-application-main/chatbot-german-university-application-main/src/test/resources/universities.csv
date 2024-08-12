@@ -1,0 +1,21 @@
+Program,Field,City,University,Requirements,GRE/GMAT
+MSc,Computer Science,Berlin,Technical University of Berlin,Minimum GPA: 3.0,GRE Score: 320
+MSc,Computer Science,Munich,Technical University of Munich,Minimum GPA: 3.2,GRE Score: 325
+MSc,Computer Science,Heidelberg,Heidelberg University,Minimum GPA: 3.0,GRE Score: 320
+MSc,Engineering,Berlin,Technical University of Berlin,Minimum GPA: 3.2,GRE Score: 325
+MSc,Engineering,Munich,Technical University of Munich,Minimum GPA: 3.0,GRE Score: 320
+MSc,Business Administration,Frankfurt,Goethe University of Frankfurt am Main,Minimum GPA: 3.5,GMAT Score: 700
+MSc,Business Administration,Berlin,Humboldt University of Berlin,Minimum GPA: 3.2,GMAT Score: 680
+MSc,Biology,Freiburg,University of Freiburg,Minimum GPA: 3.0,GRE Score: 310
+MSc,Biology,Stuttgart,University of Stuttgart,Minimum GPA: 3.2,GRE Score: 315
+MSc,Psychology,Heidelberg,Heidelberg University,Minimum GPA: 3.5,GRE Score: 320
+MSc,Psychology,Berlin,Humboldt University of Berlin,Minimum GPA: 3.3,GRE Score: 315
+MSc,Economics,Frankfurt,Goethe University of Frankfurt am Main,Minimum GPA: 3.2,GRE Score: 320
+MSc,Economics,Weimar,Humboldt University of Berlin,Minimum GPA: 3.0,GRE Score: 310
+MEng,Computer Science,Munich,Technical University of Munich,Minimum GPA: 3.3,GRE Score: 325
+MEng,Engineering,Berlin,Technical University of Berlin,Minimum GPA: 3.0,GRE Score: 320
+MEng,Business Administration,Frankfurt,Goethe University of Frankfurt am Main,Minimum GPA: 3.2,GMAT Score: 690
+MEng,Biology,Freiburg,University of Freiburg,Minimum GPA: 3.0,GRE Score: 310
+MEng,Psychology,Heidelberg,Heidelberg University,Minimum GPA: 3.3,GRE Score: 315
+MEng,Economics,Berlin,Humboldt University of Berlin,Minimum GPA: 3.0,GRE Score: 310
+MBA,Business Administration,Frankfurt,Goethe University of Frankfurt am Main,Minimum GPA: 3.5,GMAT Score: 700

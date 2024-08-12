@@ -1,0 +1,12 @@
+Hi learner! I'll guide you through how this marvelous app works.
+Here's a step-by-step breakdown:
+
+1. Choose your topic of interest and read information about it.
+2. In which level of difficulty would you like to play?
+3. Play and have fun, but keep in mind that
+    you have a limited number of lives. Each
+    mistake costs you a life.
+4. So, there are two outcomes: either you
+    finish all the questions without losing all
+    your lives and see your gaming results, or
+    you fail and have to start over from step 1.
